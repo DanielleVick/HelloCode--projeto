@@ -1,4 +1,6 @@
-# HelloCode--projeto
+![FOTO DA EQUIPE](https://i.postimg.cc/c46mV8jg/imagemgt.jpg)
+
+# HelloCode--projeto 🎮
 
 Repositório para o projeto Hello Code! - disciplina: PISI I - Projeto Interdisciplinar para Sistemas de Informação I
 
@@ -6,7 +8,6 @@ Equipe: Danielle Victória e Larissa Galindo
 
 Docente responsável: Cleyton Magalhães
 
-![FOTO DA EQUIPE](blob:https://web.whatsapp.com/3158f390-37ca-45a2-af92-5f33e9742a59)
 _____________________________________
 **Descrição do projeto**
 

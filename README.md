@@ -1,6 +1,6 @@
 ![FOTO DA EQUIPE](https://i.postimg.cc/c46mV8jg/imagemgt.jpg)
 
-# HelloCode--projeto 🎮
+# Hello_Code.projeto 🎮
 
 Repositório para o projeto Hello Code! - disciplina: PISI I - Projeto Interdisciplinar para Sistemas de Informação I
 

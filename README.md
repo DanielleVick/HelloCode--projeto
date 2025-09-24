@@ -5,6 +5,8 @@ Repositório para o projeto Hello Code! - disciplina: PISI I - Projeto Interdisc
 Equipe: Danielle Victória e Larissa Galindo
 
 Docente responsável: Cleyton Magalhães
+
+![FOTO DA EQUIPE](blob:https://web.whatsapp.com/3158f390-37ca-45a2-af92-5f33e9742a59)
 _____________________________________
 **Descrição do projeto**
 
